@@ -1,0 +1,19 @@
+{
+  "name": "com.stresslevelzero.marrow.backlot",
+  "version": "1.1.0",
+  "displayName": "Marrow Backlot Standalone",
+  "description": "The Standalone Marrow Backlot for Marrow Content",
+  "unity": "2021.3",
+  "keywords": [
+    "slz",
+    "stresslevelzero",
+    "marrow"
+  ],
+  "author": {
+    "name": "StressLevelZero",
+    "email": "contact@stresslevelzero.com",
+    "url": "http://www.stresslevelzero.com/"
+  },
+  "unityRelease": "16f1",
+  "hideInEditor": false
+}
