@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: mat_grid_GLOW_Zenon
+  m_Name: mat_grid_GLOW_zenon
   m_Shader: {fileID: 4800000, guid: e2bc12b142787a84e95ff4f3ca0bac39, type: 3}
   m_ValidKeywords:
   - _EMISSION_ON

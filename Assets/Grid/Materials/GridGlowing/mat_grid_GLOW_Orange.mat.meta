@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: e453e6bcd4a61404b8c8b1058c6faee9
+labels:
+- SLZ
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 0

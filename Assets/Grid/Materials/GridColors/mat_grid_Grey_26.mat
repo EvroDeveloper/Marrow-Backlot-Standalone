@@ -9,8 +9,6 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: mat_grid_Grey_26
   m_Shader: {fileID: 4800000, guid: e2bc12b142787a84e95ff4f3ca0bac39, type: 3}
-  m_Parent: {fileID: 0}
-  m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _DETAILS_ON
   m_InvalidKeywords: []
@@ -21,7 +19,6 @@ Material:
   stringTagMap:
     OriginalShader: Standard
   disabledShaderPasses: []
-  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
