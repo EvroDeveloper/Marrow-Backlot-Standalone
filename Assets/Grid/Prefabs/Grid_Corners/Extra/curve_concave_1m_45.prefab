@@ -55,7 +55,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1114725923321315169}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0396b7cb33830d24a8749a5b11c36a6d, type: 3}
+  m_Script: {fileID: 11500000, guid: 8020d77a8527fdd4e84ec1fbdfe6a973, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _surfaceDataCard:
@@ -206,7 +206,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 6228739489899690838}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0396b7cb33830d24a8749a5b11c36a6d, type: 3}
+  m_Script: {fileID: 11500000, guid: 8020d77a8527fdd4e84ec1fbdfe6a973, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _surfaceDataCard:
@@ -270,7 +270,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 6228739491165872129}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0396b7cb33830d24a8749a5b11c36a6d, type: 3}
+  m_Script: {fileID: 11500000, guid: 8020d77a8527fdd4e84ec1fbdfe6a973, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _surfaceDataCard:
